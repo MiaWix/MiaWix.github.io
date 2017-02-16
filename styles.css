@@ -8,10 +8,25 @@ body {
 }
 
 p {
-    color:#39c9bb;
+    color:#1f0d45;
 }
 
 ul {
-    text-align: left;
-    color:#104e8b;
+    color:#9c91ea;
+}
+
+ol {
+    color:#d185d8;
+}
+
+h3 {
+    color: #7454cc;
+}
+
+h2 {
+    color: #7a408d;
+}
+
+h1 {
+    color; #008080
 }
