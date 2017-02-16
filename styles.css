@@ -13,10 +13,13 @@ p {
 
 ul {
     color:#9c91ea;
+    list-style-position: inside;
 }
 
 ol {
     color:#d185d8;
+    list-style-position: inside;
+
 }
 
 h3 {
