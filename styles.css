@@ -10,3 +10,7 @@ body {
 p {
     color:#39c9bb;
 }
+
+ul {
+    text-align: left;
+}
