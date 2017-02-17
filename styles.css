@@ -1,3 +1,8 @@
+html {
+    background-color: black;
+    background: url(https://media0.giphy.com/media/xT8qBfjJhOmNPTVWU0/200_s.gif);
+}
+
 img {
     width: 200px;
 }
@@ -8,7 +13,7 @@ body {
 }
 
 p {
-    color:#1f0d45;
+    color:#948;
 }
 
 ul {
