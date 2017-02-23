@@ -1,5 +1,5 @@
 function changeColor() {
-  $("#easy").css({ backgroundColor: '#002366' });
+  $("#easy").css({ backgroundColor: '#0000FF' });
 }
 
 function sayThatWasEasy() {
