@@ -7,7 +7,7 @@ function sayThatWasEasy() {
   thatWasEasy.play();
   changeColor();
 }
-
+ 
 $("#easy").on("click", sayThatWasEasy);
 
 $(document).keypress(delegateKeypress);
