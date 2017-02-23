@@ -9,7 +9,7 @@ img {
 
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Arial';
 }
 
 p {
@@ -19,6 +19,7 @@ p {
 ul {
     color:#9c91ea;
     list-style-position: inside;
+    text-align: center;
 }
 
 ol {
