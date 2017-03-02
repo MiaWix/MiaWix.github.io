@@ -38,7 +38,7 @@ function draw() {
     y = y - circleRadius;
     isShifted = !isShifted;
     
-    rVal = rVal - 1;
+    rVal = rVal - 2;
     gVal = gVal + 6;
     bVal = bVal + 9;
    }
