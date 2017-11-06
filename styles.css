@@ -16,5 +16,13 @@ body {
 
 ul {
     text-shadow: rgb(#9e9e8f);
+    border-color:white;
+    border-style: inset;
 }
 
+.rugby {
+    width: 400px;
+    border-color: white;
+    border-style: dashed;
+    
+}
