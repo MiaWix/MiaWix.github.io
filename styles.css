@@ -14,12 +14,14 @@ body {
     text-align: center;
     font-family: Arial;
     background-image: url(https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg);
+    background-position: center
 }
 
 ul {
     text-shadow: rgb(#9e9e8f);
     border-color:white;
     border-style: inset;
+    border-spacing: inherit;
 }
 
 .rugby {
