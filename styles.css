@@ -1,0 +1,21 @@
+img {
+    width: 200px;
+}
+
+h1 {
+        font-style: italic;
+        color:white;
+}
+
+body {
+    color:white;
+    text-align: center;
+    font-family: Arial;
+    background-image: url(https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg);
+}
+
+ul {
+    text-decoration: blink;
+    text-shadow: rgb(#9e9e8f);
+}
+
