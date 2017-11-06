@@ -1,5 +1,7 @@
 img {
     width: 200px;
+    border-color: #ff9999;
+    border-style: groove
 }
 
 h1 {
